@@ -1,6 +1,7 @@
 # kattis-problems
-A repo containing all kattisproblems I have solved and the solutions.
+A repo containing all the kattisproblems I have solved and the solutions.
 
-* Blackboard numbers
-* Robotopia
-* Tajna
+* Blackboard numbers (Go)
+* Candy Division (Java)
+* Robotopia (Go)
+* Tajna (Java)
